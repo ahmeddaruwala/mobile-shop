@@ -1,0 +1,31 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    margin: 20px;
+    padding-left: 20px;
+    background-image: url(images/night-sky.jpg);
+}
+select
+{
+    padding: 5px;
+    border-radius: 8px;
+    color: antiquewhite;
+    background-color: #151b54;
+}
+button
+{
+    padding: 5px;
+    border: 1px solid #151b54;
+    border-radius: 10px;
+    color: antiquewhite;
+    background-color: #151b54;
+}
+.card
+{
+    background-color: black;
+}
